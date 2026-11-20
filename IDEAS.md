@@ -28,6 +28,20 @@
 - Ecualizador distinto por canción
 - Miniatura propia de biblioteca para portadas de video
 
+- v9: modo de rendimiento (automático / máximo / ahorro), panel de personalizar con pestañas
+- v9: efectos de pantalla (barras abajo, humo en esquinas, estrellas, brasas, lluvia neón, luciérnagas)
+- v9: color y cantidad de partículas; glitch/sacudida/destello con detección de ritmo adaptativa
+- v9: fondo con zoom, mover/recortar con gestos, transparencia, oscurecer y desenfoque
+
+## Ideas siguientes
+- Colores automáticos tomados de la portada
+- Álbum/artista leyendo etiquetas ID3
+- Crossfade entre canciones y normalizar volumen
+- Gestos en el reproductor (deslizar para cambiar de canción)
+- Compartir/exportar una plantilla de estilo
+- Botón "sorpréndeme": combina estilo, efecto y colores al azar
+- Aviso o reducción automática de videos pesados
+
 ## Pendiente
 1. Álbumes y artistas (leer datos de los archivos)
 2. Reproducir videos (pestaña Video)
