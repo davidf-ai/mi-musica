@@ -32,14 +32,24 @@
 - v9: efectos de pantalla (barras abajo, humo en esquinas, estrellas, brasas, lluvia neón, luciérnagas)
 - v9: color y cantidad de partículas; glitch/sacudida/destello con detección de ritmo adaptativa
 - v9: fondo con zoom, mover/recortar con gestos, transparencia, oscurecer y desenfoque
+- v10: efectos del disco en toda la pantalla (ya no se cortan en un cuadrado, también en PC)
+- v10: duplicadas (insignia, filtro "Duplicadas", quitar copias exactas)
+- v10: exportar fácil (botón arriba), descargar canciones sueltas o varias
+- v10: arrastrar para reordenar (cola y listas), gestos (deslizar, tocar, doble toque = favorita)
+- v10: bloqueo contra toques accidentales (candado, mantener pulsado para desbloquear)
+- v10: Auto (según la foto) y Sorpréndeme, por canción y para todas
+- v11: Auto más inteligente: analiza la foto (colores dominantes, brillo, contraste, detalle, saturación) y también el nombre de la canción; elige ambiente (fuego, hielo, neón, tóxico, pastel, monocromo, intenso)
+- v11: Auto con portadas de video (analiza varios cuadros) y opción de aplicarlo al poner una portada
+- v11: 3 estilos de disco (neón, cristal facetado, galaxia), 3 efectos del disco (ondas expansivas, rayos, órbita)
+- v11: 7 efectos de pantalla (aurora boreal, código matrix, burbujas, pétalos, confeti, relámpagos, pantalla CRT)
+- v11: 4 efectos al ritmo (zoom, inclinación, estroboscopio, inversión de color)
 
 ## Ideas siguientes
-- Colores automáticos tomados de la portada
+- Detectar el BPM real de la canción para sincronizar efectos
+- Elegir el estilo según el género o la energía de la canción
 - Álbum/artista leyendo etiquetas ID3
 - Crossfade entre canciones y normalizar volumen
-- Gestos en el reproductor (deslizar para cambiar de canción)
 - Compartir/exportar una plantilla de estilo
-- Botón "sorpréndeme": combina estilo, efecto y colores al azar
 - Aviso o reducción automática de videos pesados
 
 ## Pendiente
