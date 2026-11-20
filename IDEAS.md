@@ -43,8 +43,15 @@
 - v11: 3 estilos de disco (neón, cristal facetado, galaxia), 3 efectos del disco (ondas expansivas, rayos, órbita)
 - v11: 7 efectos de pantalla (aurora boreal, código matrix, burbujas, pétalos, confeti, relámpagos, pantalla CRT)
 - v11: 4 efectos al ritmo (zoom, inclinación, estroboscopio, inversión de color)
+- v12: 14 efectos de audio (slowed, super slowed, vaporwave, sped up, nightcore, bass boost, phonk, eco, 8D, radio, otra habitación, saturación) con intensidad ajustable
+- v12: selector rápido de efecto en el reproductor, y "aplicar a todas"
+- v12: igualar volumen entre canciones (compresor)
 
 ## Ideas siguientes
+- Portada y datos (artista, álbum) leídos del archivo
+- Pantalla siempre encendida y atajos de teclado
+- Grabar un clip con los efectos
+- Mezcla real entre canciones
 - Detectar el BPM real de la canción para sincronizar efectos
 - Elegir el estilo según el género o la energía de la canción
 - Álbum/artista leyendo etiquetas ID3
