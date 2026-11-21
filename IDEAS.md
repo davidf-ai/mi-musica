@@ -46,6 +46,15 @@
 - v12: 14 efectos de audio (slowed, super slowed, vaporwave, sped up, nightcore, bass boost, phonk, eco, 8D, radio, otra habitación, saturación) con intensidad ajustable
 - v12: selector rápido de efecto en el reproductor, y "aplicar a todas"
 - v12: igualar volumen entre canciones (compresor)
+- v13: iconos de listas (1, 2 o 3 discos, álbum, cassette, vinilo, CD, pila de portadas), con color y nombre editables
+- v13: importar mezcla con tu biblioteca en vez de reemplazarla; si una canción ya existe eliges: conservar la mía, usar la de la copia o conservar las dos
+- v14: Modo simple (bajo rendimiento) arriba en Ajustes, además de Ahorro de batería
+- v14: galería de 10 looks (Cyberpunk, Vaporwave, Phonk fuego, Atardecer anime, Lo-fi, Hielo, Matrix, Gótico B/N, Club neón, Retro VHS)
+- v14: reproductores: vinilo con brazo, cassette con carretes, CD brillante, parlantes que laten
+- v14: filtros de portada y fondo, marcos, texturas (grano, viñeta, destellos, bokeh), texto y pegatinas
+- v14: título con fuentes y animaciones, y desplazamiento de títulos largos
+- v14: barra de avance con forma de onda, transiciones entre canciones, fondo degradado en movimiento
+- v14: tarjetas con brillo e inclinación, fondo que se mueve al inclinar el celular, vibración al ritmo
 
 ## Ideas siguientes
 - Portada y datos (artista, álbum) leídos del archivo
