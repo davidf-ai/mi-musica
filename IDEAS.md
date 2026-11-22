@@ -55,6 +55,10 @@
 - v14: título con fuentes y animaciones, y desplazamiento de títulos largos
 - v14: barra de avance con forma de onda, transiciones entre canciones, fondo degradado en movimiento
 - v14: tarjetas con brillo e inclinación, fondo que se mueve al inclinar el celular, vibración al ritmo
+- v15: reproductor en horizontal (disco a la izquierda, controles a la derecha) y mejor ajuste en celulares bajitos
+- v16: interfaz renovada: cabecera de vidrio, pestañas con iconos y contadores, tarjetas con play al pasar el mouse y barras de sonido, vista de lista, mini reproductor con corazón y barra de avance
+- v16: corazones nuevos con animación, favoritas con portada, orden por recién añadidas, reproducir y aleatorio
+- v16: corazón grande al dar doble toque al disco; quitar canciones ahora desde el menú (menos toques accidentales)
 
 ## Ideas siguientes
 - Portada y datos (artista, álbum) leídos del archivo
