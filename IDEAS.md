@@ -59,6 +59,14 @@
 - v16: interfaz renovada: cabecera de vidrio, pestañas con iconos y contadores, tarjetas con play al pasar el mouse y barras de sonido, vista de lista, mini reproductor con corazón y barra de avance
 - v16: corazones nuevos con animación, favoritas con portada, orden por recién añadidas, reproducir y aleatorio
 - v16: corazón grande al dar doble toque al disco; quitar canciones ahora desde el menú (menos toques accidentales)
+- v17: pantalla de bloqueo y notificación con la portada y los colores de la canción, con barra para adelantar
+- v17: lee portada, artista y álbum de los mp3; búsqueda sin tildes y por artista, álbum y letra
+- v17: deslizar tarjetas (favorita / reproducir siguiente), atajos de teclado, pantalla encendida mientras suena
+- v17: se recuerda la cola, aviso de copia de seguridad cada 14 días, listas grandes más rápidas
+- v17: accesibilidad (tamaño de interfaz, reducir movimiento, evitar parpadeos) y 5 temas de color
+- v18: tarjeta de la canción para compartir (imagen con tu look)
+- v18: etiquetas con colores (filtrar, etiquetar varias a la vez) y listas inteligentes (nunca escuchadas, recién añadidas, más escuchadas, historial, cortas, largas, por ambiente y por etiqueta)
+- v18: enviar música, portadas y estilos de un dispositivo a otro directo (sin servidor)
 
 ## Ideas siguientes
 - Portada y datos (artista, álbum) leídos del archivo
